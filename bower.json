@@ -1,0 +1,27 @@
+{
+  "name": "Blob.js",
+  "version": "v1.0.0",
+  "homepage": "https://github.com/educarm/FileSaver.js",
+  "description": "A Blob implementation",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "main": ["./Blob.js"],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "config",
+    "lib",
+    "scripts",
+    "src",
+    "test",
+    "workbench",
+    "conf.js",
+    "GruntFile.js"
+  ],
+  "dependencies": {
+    
+  }  
+}
